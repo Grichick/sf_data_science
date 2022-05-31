@@ -12,9 +12,6 @@
 Финальное задание к модулю PYTHON-8.  
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Оглавление)
-
-
 ### Какой кейс решаем?    
 Нужно написать функцию, которая будет справляться с угадыванием меньше чем за 20 попыток.
 
@@ -64,5 +61,5 @@
 - Научился работать с GitHub.
 
 
-:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md)
 
