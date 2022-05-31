@@ -1,18 +1,18 @@
 # **Проект 1. Угадай число**
 
 ## **Оглавление**  
-[1. Описание проекта](https://github.com/Grichick/sf_data_science/blob/main/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Grichick/sf_data_science/blob/main/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Grichick/sf_data_science/blob/main/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Grichick/sf_data_science/blob/main/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Grichick/sf_data_science/blob/main/README.md#Результат)    
-[6. Выводы](https://github.com/Grichick/sf_data_science/blob/main/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Результат)    
+[6. Выводы](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Выводы) 
 
 ### **Описание проекта**  
 Финальное задание к модулю PYTHON-8.  
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -42,7 +42,7 @@
 - В ходе выполнения алгоритма проверки качества формируется массив random_array из 1000 случайных целых чисел в интервале (1,100).
 - Возвращается значение score (среднее значение количества попыток, затраченных алгоритмом поиска до нахождения случайного числа).
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+
 
 
 ### Этапы работы над проектом  
@@ -50,13 +50,12 @@
 - В качестве алгоритма поиска выбран метод деления заданного интервала поиска пополам и отбрасывания части, не содержащей искомое число.
 - Проведена проверка качества работы алгоритма на выборке из 1000 случайных чисел. Среднее количество попыток - 5.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+
 
 
 ### Результаты:  
 - По результатам проверки качества работы алгоритма среднее количество попыток - 5, что соответствует поставленной задаче.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Выводы:  
@@ -65,5 +64,5 @@
 - Научился работать с GitHub.
 
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md.README.md#Оглавление)
 
