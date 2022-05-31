@@ -61,5 +61,5 @@
 - Научился работать с GitHub.
 
 
-:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md)
+:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#оглавление)
 
