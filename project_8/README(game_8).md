@@ -5,7 +5,7 @@
 [2. Какой кейс решаем?](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Результат)    
+[5. Результат](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Результаты)    
 [6. Выводы](https://github.com/Grichick/sf_data_science/blob/main/project_8/README(game_8).md#Выводы) 
 
 ### **Описание проекта**  
