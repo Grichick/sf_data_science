@@ -12,7 +12,7 @@ From the [Skillfactory Data Scince course](https://skillfactory.ru/data-scientis
 * [Проект 5. Задача классификации](https://github.com/Grichick/sf_data_science/tree/main/project_5)
 
 ## Tasks
-* [Task 2. Статистичстические тесты]( [Проект 4. Booking reviews](https://github.com/Grichick/sf_data_science/tree/main/project_4))
+* [Task 2. Статистичстические тесты](https://github.com/Grichick/sf_data_science/tree/main/statistical_test)
 * [Task 3. A/B тестирование](https://github.com/Grichick/sf_data_science/tree/main/A_B_tests)
 
 ## Ссылки на резюме 
