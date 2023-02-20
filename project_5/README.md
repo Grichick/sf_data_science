@@ -1,17 +1,17 @@
 # Проект 5. Задача классификации
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Grichick/sf_data_science/tree/main/project_4#описание-проекта)
+[1. Описание проекта](https://github.com/Grichick/sf_data_science/tree/main/project_5#описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Grichick/sf_data_science/tree/main/project_4#какой-кейс-решаем) 
+[2. Какой кейс решаем?](https://github.com/Grichick/sf_data_science/tree/main/project_5#какой-кейс-решаем) 
 
-[3. Краткая информация о данных](https://github.com/Grichick/sf_data_science/tree/main/project_4#краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Grichick/sf_data_science/tree/main/project_5#краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Grichick/sf_data_science/tree/main/project_4#этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Grichick/sf_data_science/tree/main/project_5#этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/Grichick/sf_data_science/tree/main/project_4#результаты)
+[5. Результат](https://github.com/Grichick/sf_data_science/tree/main/project_5#результаты)
     
-[6. Выводы](https://github.com/Grichick/sf_data_science/tree/main/project_4#выводы) 
+[6. Выводы](https://github.com/Grichick/sf_data_science/tree/main/project_5#выводы) 
 
 ### Описание проекта    
 Вам предоставили данные о последней маркетинговой кампании, которую проводил банк: задачей было привлечь клиентов для открытия депозита. Вы должны проанализировать эти данные, выявить закономерность и найти решающие факторы, повлиявшие на то, что клиент вложил деньги именно в этот банк. Если вы сможете это сделать, то поднимете доходы банка и поможете понять целевую аудиторию, которую необходимо привлекать путём рекламы и различных предложений.
