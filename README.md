@@ -10,7 +10,7 @@ From the [Skillfactory Data Scince course](https://skillfactory.ru/data-scientis
 * [Проект 3. Анализ вакансий HeadHunter](https://github.com/Grichick/sf_data_science/tree/main/project_1_HH)
 * [Проект 4. Booking reviews](https://github.com/Grichick/sf_data_science/tree/main/project_4)
 * [Проект 5. Задача классификации](https://github.com/Grichick/sf_data_science/tree/main/project_5)
-* [Проект 6. Задача классификации](https://github.com/Grichick/sf_data_science/tree/main/project_6)
+* [Проект 6. Задача регрессии](https://github.com/Grichick/sf_data_science/tree/main/project_6)
 * [Проект 7. Сегментирование клиентов](https://github.com/Grichick/sf_data_science/tree/main/project_7)
 * [Проект 8. Анализ временных рядов](https://github.com/Grichick/sf_data_science/tree/main/project_8)
 ## Tasks

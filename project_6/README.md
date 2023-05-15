@@ -1,9 +1,9 @@
-# Проект 5. Задача классификации
+# Проект 6. Задача регрессии
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Grichick/sf_data_science/tree/main/project_5#описание-проекта)
+[1. Описание проекта](https://github.com/Grichick/sf_data_science/tree/main/project_6#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
-[2. Какой кейс решаем?](https://github.com/Grichick/sf_data_science/tree/main/project_5#какой-кейс-решаем) 
+[2. Какой кейс решаем?](https://github.com/Grichick/sf_data_science/tree/main/project_6#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0) 
 
 [3. Краткая информация о данных](https://github.com/Grichick/sf_data_science/tree/main/project_5#краткая-информация-о-данных)
 
@@ -25,7 +25,7 @@
 
 Задача, которую мы будем решать, была представлена в качестве Data Science-соревнования с призовым фондом в 30 000 $ на платформе Kaggle в 2017 году.
 
-:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/tree/main/project_5#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
+:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/tree/main/project_6#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
 
 ### Какой кейс решаем?    
@@ -47,7 +47,7 @@
 
 [Подготовленная выгрузка](https://drive.google.com/file/d/1wCoS-yOaKFhd1h7gZ84KL9UwpSvtDoIA/view?usp=sharing) OSRM API для тестовой выборки
   
-:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/tree/main/project_5#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
+:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/tree/main/project_6#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
 
 ### Этапы работы над проектом  
@@ -57,7 +57,7 @@
 - Решение задачи регрессии: линейная регрессия и деревья решений
 - Решение задачи регрессии: ансамбли моделей и построение прогноза
 
-:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/tree/main/project_5#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
+:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/tree/main/project_6#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
 
 ### Результаты:  
@@ -68,5 +68,5 @@
 - Спроектирован процесс предсказания длительности поездки для новых данных.
 - Решение загружено на платформу Kaggle.
 
-:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/tree/main/project_5#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
+:arrow_up:[к оглавлению](https://github.com/Grichick/sf_data_science/tree/main/project_6#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
